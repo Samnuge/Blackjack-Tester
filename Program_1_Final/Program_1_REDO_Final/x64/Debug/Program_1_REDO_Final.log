@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\old classes\ai\programs\program_1_final\program_1_redo_final\source.cpp(579): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+e:\old classes\ai\programs\program_1_final\program_1_redo_final\source.cpp(585): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Program_1_REDO_Final.vcxproj -> E:\Old classes\AI\programs\Program_1_Final\x64\Debug\Program_1_REDO_Final.exe
